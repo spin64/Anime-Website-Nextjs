@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    align-items:center;
+    justify-content: center
+  }
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center
+}
+
+body {
+    background-color: darkgrey;
+  }
